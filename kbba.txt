@@ -1493,3 +1493,4 @@ ngentod	anjing
 trouble	masalah
 tengkyu	terima kasih 
 thanks	terima kasih 
+terimakasih	terima kasih 
